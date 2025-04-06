@@ -1,3 +1,4 @@
+//hello world
 //Инициализация библиотек
 #include <SPI.h> //библиотека для работы с SPI
 #include <LoRa.h> //библиотека для работы с LoRa
